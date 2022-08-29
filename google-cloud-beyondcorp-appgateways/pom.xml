@@ -66,6 +66,14 @@
       <groupId>org.threeten</groupId>
       <artifactId>threetenbp</artifactId>
     </dependency>
+    <dependency>
+      <groupId>com.google.api</groupId>
+      <artifactId>gax</artifactId>
+    </dependency>
+    <dependency>
+      <groupId>com.google.api</groupId>
+      <artifactId>gax-grpc</artifactId>
+    </dependency>
 
     <!-- Test dependencies -->
     <dependency>
@@ -76,7 +84,8 @@
     </dependency>
     <dependency>
       <groupId>com.google.api</groupId>
-      <artifactId>gax</artifactId>
+      <artifactId>gax-grpc</artifactId>
+      <classifier>testlib</classifier>
       <scope>test</scope>
     </dependency>
     <dependency>
