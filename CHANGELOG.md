@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.1](https://github.com/googleapis/java-beyondcorp-appgateways/compare/v0.1.0...v0.1.1) (2023-05-31)
+
+
+### Dependencies
+
+* Update dependency com.google.api.grpc:proto-google-cloud-beyondcorp-appgateways-v1 to v0.2.0 ([#46](https://github.com/googleapis/java-beyondcorp-appgateways/issues/46)) ([5c17fc9](https://github.com/googleapis/java-beyondcorp-appgateways/commit/5c17fc947d3d6038d2bf99c2325579608b937e6d))
+
 ## 0.1.0 (2022-10-03)
 
 
